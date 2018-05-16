@@ -90,4 +90,6 @@ p users ["Avril"][:pets][0][:species]
 
 # 3. p users ["Erik"][:lottery_numbers]
 
-# 4.
+# 4. p users ["Avril"][:pets][0][:species]
+
+# 5. users 
