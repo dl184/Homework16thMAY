@@ -54,7 +54,9 @@ users = {
   }
 }
 
-p users ["Avril"][:pets][0][:species]
+p users["Avril"][:lottery_numbers.get_evens]
+
+
 
 
 
@@ -92,4 +94,5 @@ p users ["Avril"][:pets][0][:species]
 
 # 4. p users ["Avril"][:pets][0][:species]
 
-# 5. users 
+# 5. e_lottery = users["Erik"][:lottery_numbers]
+# p e_lottery.sort.at(0)
