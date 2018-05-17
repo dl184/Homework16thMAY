@@ -71,7 +71,7 @@ p users["Avril"][:lottery_numbers.get_evens]
 
 # 5. stops.delete ("Livingston")
 
-# 6. stops.delete_at(1)
+# 6. stops.delete_at(2)
 
 # 7.stops.length
 # p stops.length
