@@ -75,15 +75,16 @@ p users["Avril"][:lottery_numbers.get_evens]
 
 # 7.stops.length
 # p stops.length
-# 
+#
 
 # 8. p stops[-5]
 #  p stops[2]
 
-# 9. stops.reverse_each
+# 9. stops.reverse()
 
-# 10. for name in stops
-# p name
+# 10. for platform in stops
+# p platform
+# end
 
 # B
 
